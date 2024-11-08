@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate full-stack developer</h3>
-<img src="./profile-3d-contrib/profile-green-animate.svg"/>
+<img src="./profile-3d-contrib/profile-night-animate.svg"/>
 
 <p align="left">
 </p>
